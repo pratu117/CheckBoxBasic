@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="87dp"
         android:layout_marginBottom="8dp"
-        android:text="Select Your Programming Language "
+        android:text="@string/select_your_programming_language"
         android:textColor="@color/colorBright"
         android:gravity="center"
         android:textSize="24sp"
